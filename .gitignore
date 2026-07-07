@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# Old javac build output (pre-Maven)
+out/
+
+# Compiled class files
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
