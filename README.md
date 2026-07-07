@@ -73,4 +73,3 @@ backends. Bring it back and it's added back automatically.
 - TLS termination
 - Config file / hot reload
 - Metrics export
-# Java-Load-Balancer
